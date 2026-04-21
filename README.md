@@ -1,4 +1,5 @@
-# 6G AI-Native RIS: Digital Twin for Complex Indoor Radio Environments
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Husammerhej/6G-AI-Native-RIS-Sim/blob/main/Simulation_Demo.ipynb)# 6G AI-Native RIS: Digital Twin for Complex Indoor Radio Environments
 
 This repository contains a comprehensive simulation of **6G Intelligent Radio Environments**. Using **Reconfigurable Intelligent Surfaces (RIS)** and **AI-Driven Beamforming**, the project addresses the critical challenge of signal blockage (NLoS) in high-frequency wireless networks.
 
